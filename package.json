@@ -1,0 +1,16 @@
+{
+  "name": "realbackendproject",
+  "version": "1.0.0",
+  "description": "making a back end server from node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "author": "Rakesh K S",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1"
+  }
+}
